@@ -2,7 +2,7 @@ import React from 'react'
 const Home = () => {
   return (
     
-   <div className='bg-[url("public/assets/3.png")] bg-cover bg-center size-full overflow-hidden min-h-screen flex flex-row '>
+   <div className='bg-[url("src/3.png")] bg-cover bg-center size-full overflow-hidden min-h-screen flex flex-row '>
     
      <div className='flex  flex-col text-amber-50 w-[59%] h-[100vh]  gap-2 relative top-20'> 
       
