@@ -7,7 +7,7 @@ const Projects = () => {
     description:
       "YourBill's is a modern, user-friendly billing software built using React. It allows businesses to create invoices, manage payments, track inventory, and maintain customer records. The interface is clean, responsive, and works seamlessly across devices.",
     techStack: ["React", "Tailwind CSS"],
-    github: "#", // Replace with actual URL
+    github: "https://github.com/shiva-mani22/student_bill", // Replace with actual URL
   },
   {
     title: "My Movie APIs - Ticket Booking (Spring Boot)",
